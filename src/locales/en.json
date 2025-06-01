@@ -1,0 +1,169 @@
+{
+  "common": {
+    "search": "Search",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "profile": "Profile",
+    "dashboard": "Dashboard",
+    "save": "Save",
+    "cancel": "Cancel",
+    "submit": "Submit",
+    "contact": "Contact Us",
+    "about": "About Us",
+    "loading": "Loading...",
+    "seeMore": "See More",
+    "seeLess": "See Less",
+    "switchLanguage": "Ganti ke Bahasa Indonesia"
+  },
+  "header": {
+    "home": "Home",
+    "properties": "Properties",
+    "buy": "Buy",
+    "rent": "Rent",
+    "sell": "Sell",
+    "commercial": "Commercial",
+    "newDevelopment": "New Development"
+  },
+  "footer": {
+    "companyName": "PropertyPro.id",
+    "copyright": "© 2025 PropertyPro. All Rights Reserved",
+    "address": "Jl. Sudirman No. 123, Central Jakarta, Indonesia",
+    "links": {
+      "terms": "Terms & Conditions",
+      "privacy": "Privacy Policy",
+      "faq": "FAQ",
+      "careers": "Careers",
+      "blog": "Blog"
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "Turning Houses into",
+      "coloredTitle": "Homes and Dreams",
+      "subtitle": "into Reality.",
+      "description": "Find your dream home at PropertyPro.id, Indonesia's most comprehensive property platform.",
+      "searchPlaceholder": "Search for location, complex, or landmark"
+    },
+    "featuredProperties": {
+      "title": "Featured Properties",
+      "viewAll": "View All Properties"
+    },
+    "propertyTypes": {
+      "title": "Property Types",
+      "residential": "Residential",
+      "commercial": "Commercial",
+      "land": "Land",
+      "apartment": "Apartment"
+    },
+    "categories": {
+      "luxury": "Luxury",
+      "affordable": "Affordable",
+      "ecofriendly": "Eco-friendly",
+      "futuristic": "Futuristic"
+    },
+    "testimonials": {
+      "title": "What They Say About Us",
+      "subtitle": "Experiences from Our Clients"
+    },
+    "cta": {
+      "title": "Want to sell your property?",
+      "description": "List your property and get potential buyers in no time.",
+      "button": "List Now"
+    }
+  },
+  "property": {
+    "filters": {
+      "location": "Location",
+      "type": "Property Type",
+      "price": "Price Range",
+      "bedrooms": "Bedrooms",
+      "bathrooms": "Bathrooms",
+      "size": "Building Size",
+      "landSize": "Land Size",
+      "features": "Features",
+      "applyFilter": "Apply Filter",
+      "resetFilter": "Reset Filter"
+    },
+    "details": {
+      "overview": "Overview",
+      "description": "Description",
+      "features": "Features",
+      "location": "Location",
+      "nearbyFacilities": "Nearby Facilities",
+      "contactAgent": "Contact Agent",
+      "similarProperties": "Similar Properties"
+    },
+    "badges": {
+      "forSale": "For Sale",
+      "forRent": "For Rent",
+      "sold": "Sold",
+      "rented": "Rented",
+      "new": "New",
+      "featured": "Featured",
+      "reduced": "Price Reduced"
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Login to Your Account",
+      "email": "Email",
+      "password": "Password",
+      "forgotPassword": "Forgot Password?",
+      "noAccount": "Don't have an account?",
+      "createAccount": "Register Now"
+    },
+    "register": {
+      "title": "Create New Account",
+      "name": "Full Name",
+      "email": "Email",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "phone": "Phone Number",
+      "agreement": "By registering, you agree to our Terms & Conditions and Privacy Policy",
+      "hasAccount": "Already have an account?",
+      "loginHere": "Login here"
+    },
+    "resetPassword": {
+      "title": "Reset Password",
+      "email": "Email",
+      "instructions": "We will send a password reset link to your email",
+      "back": "Back to Login Page"
+    }
+  },
+  "dashboard": {
+    "welcome": "Welcome, {{name}}!",
+    "menu": {
+      "saved": "Saved Properties",
+      "listings": "My Listings",
+      "messages": "Messages",
+      "profile": "Profile",
+      "settings": "Settings"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We're here to help you",
+    "form": {
+      "name": "Full Name",
+      "email": "Email",
+      "phone": "Phone Number",
+      "subject": "Subject",
+      "message": "Message",
+      "submit": "Send Message"
+    },
+    "info": {
+      "address": "Address",
+      "phone": "Phone",
+      "email": "Email",
+      "hours": "Office Hours"
+    }
+  },
+  "about": {
+    "title": "About PropertyPro",
+    "mission": "Our Mission",
+    "vision": "Our Vision",
+    "team": "Our Team",
+    "history": "Our History"
+  }
+}

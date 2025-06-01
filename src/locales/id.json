@@ -1,0 +1,169 @@
+{
+  "common": {
+    "search": "Cari",
+    "login": "Masuk",
+    "register": "Daftar",
+    "logout": "Keluar",
+    "profile": "Profil",
+    "dashboard": "Dasbor",
+    "save": "Simpan",
+    "cancel": "Batal",
+    "submit": "Kirim",
+    "contact": "Hubungi Kami",
+    "about": "Tentang Kami",
+    "loading": "Memuat...",
+    "seeMore": "Lihat Selengkapnya",
+    "seeLess": "Lihat Lebih Sedikit",
+    "switchLanguage": "Switch to English"
+  },
+  "header": {
+    "home": "Beranda",
+    "properties": "Properti",
+    "buy": "Beli",
+    "rent": "Sewa",
+    "sell": "Jual",
+    "commercial": "Komersial",
+    "newDevelopment": "Proyek Baru"
+  },
+  "footer": {
+    "companyName": "PropertyPro.id",
+    "copyright": "© 2025 PropertyPro. Hak Cipta Dilindungi",
+    "address": "Jl. Sudirman No. 123, Jakarta Pusat, Indonesia",
+    "links": {
+      "terms": "Syarat & Ketentuan",
+      "privacy": "Kebijakan Privasi",
+      "faq": "FAQ",
+      "careers": "Karir",
+      "blog": "Blog"
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "Mengubah Rumah menjadi",
+      "coloredTitle": "Hunian dan Impian",
+      "subtitle": "menjadi Kenyataan.",
+      "description": "Temukan hunian impian Anda di PropertyPro.id, platform properti terlengkap di Indonesia.",
+      "searchPlaceholder": "Cari lokasi, kompleks, atau landmark"
+    },
+    "featuredProperties": {
+      "title": "Properti Unggulan",
+      "viewAll": "Lihat Semua Properti"
+    },
+    "propertyTypes": {
+      "title": "Jenis Properti",
+      "residential": "Hunian",
+      "commercial": "Komersial",
+      "land": "Tanah",
+      "apartment": "Apartemen"
+    },
+    "categories": {
+      "luxury": "Mewah",
+      "affordable": "Terjangkau",
+      "ecofriendly": "Ramah Lingkungan",
+      "futuristic": "Futuristik"
+    },
+    "testimonials": {
+      "title": "Apa Kata Mereka Tentang Kami",
+      "subtitle": "Pengalaman dari Klien Kami"
+    },
+    "cta": {
+      "title": "Ingin menjual properti Anda?",
+      "description": "Daftarkan properti Anda dan dapatkan calon pembeli potensial dalam waktu singkat.",
+      "button": "Daftarkan Sekarang"
+    }
+  },
+  "property": {
+    "filters": {
+      "location": "Lokasi",
+      "type": "Tipe Properti",
+      "price": "Rentang Harga",
+      "bedrooms": "Kamar Tidur",
+      "bathrooms": "Kamar Mandi",
+      "size": "Luas Bangunan",
+      "landSize": "Luas Tanah",
+      "features": "Fitur",
+      "applyFilter": "Terapkan Filter",
+      "resetFilter": "Reset Filter"
+    },
+    "details": {
+      "overview": "Ringkasan",
+      "description": "Deskripsi",
+      "features": "Fitur",
+      "location": "Lokasi",
+      "nearbyFacilities": "Fasilitas Terdekat",
+      "contactAgent": "Hubungi Agen",
+      "similarProperties": "Properti Serupa"
+    },
+    "badges": {
+      "forSale": "Dijual",
+      "forRent": "Disewa",
+      "sold": "Terjual",
+      "rented": "Tersewa",
+      "new": "Baru",
+      "featured": "Unggulan",
+      "reduced": "Harga Turun"
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Masuk ke Akun Anda",
+      "email": "Email",
+      "password": "Kata Sandi",
+      "forgotPassword": "Lupa Kata Sandi?",
+      "noAccount": "Belum memiliki akun?",
+      "createAccount": "Daftar Sekarang"
+    },
+    "register": {
+      "title": "Daftar Akun Baru",
+      "name": "Nama Lengkap",
+      "email": "Email",
+      "password": "Kata Sandi",
+      "confirmPassword": "Konfirmasi Kata Sandi",
+      "phone": "Nomor Telepon",
+      "agreement": "Dengan mendaftar, Anda menyetujui Syarat & Ketentuan dan Kebijakan Privasi kami",
+      "hasAccount": "Sudah memiliki akun?",
+      "loginHere": "Masuk di sini"
+    },
+    "resetPassword": {
+      "title": "Reset Kata Sandi",
+      "email": "Email",
+      "instructions": "Kami akan mengirimkan tautan reset kata sandi ke email Anda",
+      "back": "Kembali ke Halaman Masuk"
+    }
+  },
+  "dashboard": {
+    "welcome": "Selamat datang, {{name}}!",
+    "menu": {
+      "saved": "Properti Tersimpan",
+      "listings": "Properti Saya",
+      "messages": "Pesan",
+      "profile": "Profil",
+      "settings": "Pengaturan"
+    }
+  },
+  "contact": {
+    "title": "Hubungi Kami",
+    "subtitle": "Kami siap membantu Anda",
+    "form": {
+      "name": "Nama Lengkap",
+      "email": "Email",
+      "phone": "Nomor Telepon",
+      "subject": "Subjek",
+      "message": "Pesan",
+      "submit": "Kirim Pesan"
+    },
+    "info": {
+      "address": "Alamat",
+      "phone": "Telepon",
+      "email": "Email",
+      "hours": "Jam Operasional"
+    }
+  },
+  "about": {
+    "title": "Tentang PropertyPro",
+    "mission": "Misi Kami",
+    "vision": "Visi Kami",
+    "team": "Tim Kami",
+    "history": "Sejarah Kami"
+  }
+}
